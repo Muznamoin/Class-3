@@ -1,0 +1,52 @@
+/* Syeda Muzna Moin-8939074*/
+body p{font:italic small-caps bold 20px times new roman;
+    background-color:hsla(180,100%,50%,.5);
+    border:2px solid;width:90%;
+    height:20%}
+    main{
+        float: right;
+    }
+    aside{
+        float: left;
+    }
+    .structural{
+        padding: 20px;
+        border: 5px solid rgb(150, 16, 227);
+        margin: auto;
+        
+    }
+    #p1{
+    color: rgb(108, 108, 227);
+    }
+    #p2{
+        color: rgb(108, 108, 227);
+    }
+    main{
+        background-color: hsl(153, 37%, 24%);
+    }
+    header{
+        background-color: hsl(155, 58%, 74%);
+    }
+    aside{
+        background-color: hsl(153, 57%, 33%);
+    }
+    footer{
+        float: right;
+        background-color: hsl(166, 95%, 30%);
+        width: 65px;
+        height: 65px;
+        margin: auto;
+
+    }
+    p{
+        color: rgb(214, 47, 208);
+    }
+    li::first-line{
+        transition: all 0.4s ;
+    }
+    li:hover{
+    color: black;
+    }
+    .structural p{
+        font-size: 15px;
+    }
